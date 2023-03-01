@@ -8,8 +8,11 @@ Database -> Mssql
 
 Payment System Api And Test Credit Card Data -> StripeApi
 
+## Registration-Credit Card Page
 
-## Admin Login
+![hippo](https://im4.ezgif.com/tmp/ezgif-4-548117719a.gif) ![hippop](https://im4.ezgif.com/tmp/ezgif-4-e00a428bca.gif)
+
+## Admin Login   -   Products
 
 ![hippo](https://im4.ezgif.com/tmp/ezgif-4-4f5d539b75.gif) ![hippo](https://im.ezgif.com/tmp/ezgif-1-e74af0f0d9.gif)
 
