@@ -2,7 +2,6 @@
 
  In this project, I developed a C# based credit card fraud detection.
 
-Backend -> C#
 
 Database -> Mssql
 
