@@ -5,7 +5,7 @@
 
 Database -> Mssql
 
-Payment System Api And Test Credit Card Data -> StripeApi
+Payment System Api and Test Credit Card Data -> StripeApi
 
 ## Registration-Credit Card Page
 
