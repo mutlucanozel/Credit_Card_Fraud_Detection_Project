@@ -2,15 +2,14 @@
 
 # In this project, I developed a C# based credit card fraud detection.
 
-Backend->C#
+Backend -> C#
 
-Database->Mssql
+Database -> Mssql
 
-Payment System And Test Bank Data->Stripe
+Payment System Api And Test Credit Card Data -> StripeApi
 
 
 ## Admin Login
-
 
 ![hippo](https://im.ezgif.com/tmp/ezgif-1-f21218d270.gif) ![hippo](https://im.ezgif.com/tmp/ezgif-1-e74af0f0d9.gif)
 
