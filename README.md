@@ -11,7 +11,7 @@ Payment System Api And Test Credit Card Data -> StripeApi
 
 ## Admin Login
 
-![hippo](https://im.ezgif.com/tmp/ezgif-1-f21218d270.gif) ![hippo](https://im.ezgif.com/tmp/ezgif-1-e74af0f0d9.gif)
+![hippo](https://im4.ezgif.com/tmp/ezgif-4-4f5d539b75.gif) ![hippo](https://im.ezgif.com/tmp/ezgif-1-e74af0f0d9.gif)
 
 ## Customer Login-Declined Payment
 
